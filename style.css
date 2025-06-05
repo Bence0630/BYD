@@ -4,3 +4,9 @@
 a {
     text-decoration: none;
 }
+.bg-light {
+    background-color: #e2eaf3 !important;
+}
+.bg-grey {
+    background-color: #3333332f !important;
+}
