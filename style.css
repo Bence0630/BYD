@@ -1,12 +1,66 @@
 .card_dropdown {
     width: 1000px;
 }
+
 a {
     text-decoration: none;
 }
+
 .bg-light {
     background-color: #e2eaf3 !important;
 }
+
 .bg-grey {
     background-color: #3333332f !important;
+}
+
+.logo {
+    width: 100px;
+}
+
+.card-szem {
+    width: 300px;
+}
+
+.ikon {
+    width: 200px;
+    height: 200px;
+}
+
+.card-bg {
+    background-color: transparent;
+}
+
+.bgi {
+    background-image: url(img/diversification-PC.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    
+}
+.bgi2 {
+    background-image: url(img/globalization-pc2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    
+}
+.bgi3 {
+    background-image: url(img/auto-pc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    
+}
+.height {
+    height: 500px;
+}
+.height2 {
+    height: 100px;
+}
+.height3 {
+    height: 30px;
 }
